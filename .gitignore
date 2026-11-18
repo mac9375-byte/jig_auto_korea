@@ -1,0 +1,14 @@
+# 고객 도면·출력물은 저장소에 넣지 않는다 (README "새 폴더에 받은 뒤 할 일" 참조)
+*.dwg
+*.dxf
+*.bak
+*.xlsx
+*.zip
+base_jig_templates/
+검증결과/
+실사용검증/
+# 실행 환경
+__pycache__/
+.venv*/
+.claude/
+.codex/
